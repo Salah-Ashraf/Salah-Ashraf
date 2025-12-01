@@ -20,29 +20,42 @@ Java Backend Developer | Spring Boot | EJB | JSF | MySQL
 
 I focus on building reliable, maintainable backend systems using proper design patterns and clean architecture.
 
-![Java](https://img.shields.io/badge/Java-1f1f1f?style=flat&logo=openjdk&logoColor=white&labelColor=000000&color=1f1f1f)
-![C++](https://img.shields.io/badge/C++-1f1f1f?style=flat&logo=cplusplus&logoColor=white&labelColor=000000&color=1f1f1f)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=1f1f1f)
-![HTML5](https://img.shields.io/badge/HTML5-1f1f1f?style=flat&logo=html5&logoColor=white&labelColor=000000&color=1f1f1f)
-![CSS3](https://img.shields.io/badge/CSS3-1f1f1f?style=flat&logo=css3&logoColor=white&labelColor=000000&color=1f1f1f)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat&logo=springboot&logoColor=white&labelColor=000000&color=1f1f1f)
-![JSF](https://img.shields.io/badge/JSF_/_PrimeFaces-1f1f1f?style=flat&logo=java&logoColor=white&labelColor=000000&color=1f1f1f)
-![EJB](https://img.shields.io/badge/EJB-1f1f1f?style=flat&logo=java&logoColor=white&labelColor=000000&color=1f1f1f)
-![Hibernate](https://img.shields.io/badge/Hibernate-1f1f1f?style=flat&logo=hibernate&logoColor=white&labelColor=000000&color=1f1f1f)
-![Kafka](https://img.shields.io/badge/Kafka-1f1f1f?style=flat&logo=apachekafka&logoColor=white&labelColor=000000&color=1f1f1f)
-![GlassFish](https://img.shields.io/badge/GlassFish-1f1f1f?style=flat&logo=oracle&logoColor=white&labelColor=000000&color=1f1f1f)
-![Tomcat](https://img.shields.io/badge/Tomcat-1f1f1f?style=flat&logo=apachetomcat&logoColor=white&labelColor=000000&color=1f1f1f)
-![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=flat&logo=docker&logoColor=white&labelColor=000000&color=1f1f1f)
-![Maven](https://img.shields.io/badge/Maven-1f1f1f?style=flat&logo=apachemaven&logoColor=white&labelColor=000000&color=1f1f1f)
-![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat&logo=git&logoColor=white&labelColor=000000&color=1f1f1f)
-![Postman](https://img.shields.io/badge/Postman-1f1f1f?style=flat&logo=postman&logoColor=white&labelColor=000000&color=1f1f1f)
-![Jasper Studio](https://img.shields.io/badge/Jasper_Studio-1f1f1f?style=flat&logo=java&logoColor=white&labelColor=000000&color=1f1f1f)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1f1f1f?style=flat&logo=intellijidea&logoColor=white&labelColor=000000&color=1f1f1f)
-![Eclipse](https://img.shields.io/badge/Eclipse-1f1f1f?style=flat&logo=eclipseide&logoColor=white&labelColor=000000&color=1f1f1f)
-![NetBeans](https://img.shields.io/badge/NetBeans-1f1f1f?style=flat&logo=apachenetbeanside&logoColor=white&labelColor=000000&color=1f1f1f)
-![MySQL](https://img.shields.io/badge/MySQL-1f1f1f?style=flat&logo=mysql&logoColor=white&labelColor=000000&color=1f1f1f)
-![Arduino](https://img.shields.io/badge/Arduino-1f1f1f?style=flat&logo=arduino&logoColor=white&labelColor=000000&color=1f1f1f)
+<div align="left">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img width="12" />
 
+  <!-- Backend Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo" />
+  <img width="12" />
+
+  <!-- IDEs & Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="NetBeans logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
+</div>
 
 
 
