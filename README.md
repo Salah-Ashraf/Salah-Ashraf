@@ -1,72 +1,47 @@
-👋 Hi, I'm Salah El-Din Ashraf
+🌑 Salah El-Din Ashraf
+Java Backend Developer | Spring Boot | EJB | JSF | MySQL
 
-💻 Java Web Developer | Spring Boot | EJB | JSF | MySQL
-📍 Egypt
+📍 Sheikh Zayed, Egypt
 
-🔥 About Me
+  ABOUT ME
 
-I’m a Java Backend Developer with SOLID experience in enterprise ERP systems, backend development, and production support.
+I’m a Java Backend Developer with strong experience in:
 
-I build applications following SOLID principles, ensuring maintainable, scalable, design patterns, and clean code architecture.
+Enterprise ERP systems
 
-## 🧠 Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Backend development using Spring Boot, EJB, JSF, Hibernate, MySQL
 
----
+Writing clean, scalable, SOLID-based code
 
-## 🔧 Backend Frameworks & Technologies
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JSF / PrimeFaces](https://img.shields.io/badge/JSF%20%2F%20PrimeFaces-323330?style=for-the-badge&logo=java&logoColor=white)
-![EJB](https://img.shields.io/badge/EJB-6C2E5C?style=for-the-badge&logo=java&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+Debugging, performance tuning & database optimization
 
----
+REST API development, microservices, and containerized deployments
 
-## 🖥 Application Servers
-![GlassFish](https://img.shields.io/badge/GlassFish-000000?style=for-the-badge&logo=oracle&logoColor=white)
-![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
+I focus on building reliable, maintainable backend systems using proper design patterns and clean architecture.
 
----
+![Java](https://img.shields.io/badge/Java-0AFFEF?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=000000)
+![C++](https://img.shields.io/badge/C++-7D00FF?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/JavaScript-FDFF00?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=000000)
+![HTML5](https://img.shields.io/badge/HTML5-FF005C?style=for-the-badge&logo=html5&logoColor=ffffff&labelColor=000000)
+![CSS3](https://img.shields.io/badge/CSS3-00CFFF?style=for-the-badge&logo=css3&logoColor=ffffff&labelColor=000000)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-39FF14?style=for-the-badge&logo=springboot&logoColor=000000&labelColor=000000)
+![JSF](https://img.shields.io/badge/JSF_/_PrimeFaces-00FFC6?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
+![EJB](https://img.shields.io/badge/EJB-FF00A8?style=for-the-badge&logo=java&logoColor=white&labelColor=000000)
+![Hibernate](https://img.shields.io/badge/Hibernate-00FFA1?style=for-the-badge&logo=hibernate&logoColor=000000&labelColor=000000)
+![Kafka](https://img.shields.io/badge/Kafka-00E1FF?style=for-the-badge&logo=apachekafka&logoColor=ffffff&labelColor=000000)
+![GlassFish](https://img.shields.io/badge/GlassFish-FFE600?style=for-the-badge&logo=oracle&logoColor=000000&labelColor=000000)
+![Tomcat](https://img.shields.io/badge/Tomcat-FFB300?style=for-the-badge&logo=apachetomcat&logoColor=000000&labelColor=000000)
+![Docker](https://img.shields.io/badge/Docker-009EFF?style=for-the-badge&logo=docker&logoColor=ffffff&labelColor=000000)
+![Maven](https://img.shields.io/badge/Maven-FF0090?style=for-the-badge&logo=apachemaven&logoColor=ffffff&labelColor=000000)
+![Git](https://img.shields.io/badge/Git-F55000?style=for-the-badge&logo=git&logoColor=ffffff&labelColor=000000)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff&labelColor=000000)
+![Jasper Studio](https://img.shields.io/badge/Jasper_Studio-00FFD5?style=for-the-badge&logo=java&logoColor=ffffff&labelColor=000000)
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-FF00D4?style=for-the-badge&logo=intellijidea&logoColor=ffffff&labelColor=000000)
+![Eclipse](https://img.shields.io/badge/Eclipse_IDE-9400FF?style=for-the-badge&logo=eclipseide&logoColor=white&labelColor=000000)
+![NetBeans](https://img.shields.io/badge/NetBeans-00FFE0?style=for-the-badge&logo=apachenetbeanside&logoColor=000000&labelColor=000000)
+![MySQL](https://img.shields.io/badge/MySQL-00C2FF?style=for-the-badge&logo=mysql&logoColor=ffffff&labelColor=000000)
+![Arduino](https://img.shields.io/badge/Arduino-00F7FF?style=for-the-badge&logo=arduino&logoColor=ffffff&labelColor=000000)
 
-## 🛠 Tools & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
----
-
-## 🗄 Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
----
-
-## 🔌 Hardware & Embedded Systems
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-
-I also handle:
-
-Building ERP modules with Spring Boot, JSF, Hibernate/JPA, and MySQL
-
-Passionate about writing clean, scalable, and maintainable backend code
-
-Comfortable with clean architecture, debugging, performance tuning
-
-Basic production support: checking logs, investigating issues, and assisting with deployments
-
-Developing REST APIs for applications, including e-commerce platforms
-
-Developing Microservice Arciticture Using Kafka for messaging and Redis for caching
-
-Working with Docker containers, CI/CD pipelines, and cloud deployments
-
-Built Smart Plant Watering System (Arduino + C++) as graduation project
 
 
 
@@ -95,15 +70,19 @@ Advanced SQL Optimization
 
 🔹 Application Support
 
-Handling simple production issues
+Log analysis & debugging
 
-Checking logs for errors
+Checking server status
 
-Supporting backend bug fixes
+Handling small production incidents
 
-Validating backend/database/user input issues
+Investigating SQL/data issues
 
-Communicating with dev/infra teams
+Working with Tomcat / GlassFish
+
+Restarting services, assisting deployments
+
+Using Workbench for data checks
 
 
 🔹 SQL & Data Checks
