@@ -36,12 +36,6 @@ I focus on building reliable, maintainable backend systems using proper design p
   <!-- Backend Frameworks & Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
   <img width="12" />
-  <!-- Spring Cloud -->
-  <img src="https://raw.githubusercontent.com/DevIcons/devicon/master/icons/springcloud/springcloud-original.svg" height="40" alt="Spring Cloud logo" />
-  <img width="12" />
-  <!-- Microservices -->
-  <img src="https://raw.githubusercontent.com/microsoft/azure-icons/master/Arch/Microservices/Microservices_64.png" height="40" alt="Microservices logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo" />
@@ -73,6 +67,7 @@ I focus on building reliable, maintainable backend systems using proper design p
   <!-- Hardware & Embedded -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
 </div>
+
 
 
 
