@@ -19,28 +19,34 @@ REST API development, microservices, and containerized deployments
 
 I focus on building reliable, maintainable backend systems using proper design patterns and clean architecture.
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ffffff)
-![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffffff)
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=ffffff)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=for-the-badge&logo=springboot&logoColor=ffffff)
-![JSF](https://img.shields.io/badge/JSF_/_PrimeFaces-000000?style=for-the-badge&logo=java&logoColor=ffffff)
-![EJB](https://img.shields.io/badge/EJB-000000?style=for-the-badge&logo=java&logoColor=ffffff)
-![Hibernate](https://img.shields.io/badge/Hibernate-000000?style=for-the-badge&logo=hibernate&logoColor=ffffff)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
-![GlassFish](https://img.shields.io/badge/GlassFish-000000?style=for-the-badge&logo=oracle&logoColor=ffffff)
-![Tomcat](https://img.shields.io/badge/Tomcat-000000?style=for-the-badge&logo=apachetomcat&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=ffffff)
-![Maven](https://img.shields.io/badge/Maven-000000?style=for-the-badge&logo=apachemaven&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=ffffff)
-![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=ffffff)
-![Jasper Studio](https://img.shields.io/badge/Jasper_Studio-000000?style=for-the-badge&logo=java&logoColor=ffffff)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
-![Eclipse](https://img.shields.io/badge/Eclipse_IDE-000000?style=for-the-badge&logo=eclipseide&logoColor=ffffff)
-![NetBeans](https://img.shields.io/badge/NetBeans-000000?style=for-the-badge&logo=apachenetbeanside&logoColor=ffffff)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=ffffff)
-![Arduino](https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=ffffff)
+![Java](https://img.shields.io/badge/Java-1f1f1f?style=flat&logo=openjdk&logoColor=white&labelColor=000000&color=1f1f1f)
+![C++](https://img.shields.io/badge/C++-1f1f1f?style=flat&logo=cplusplus&logoColor=white&labelColor=000000&color=1f1f1f)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f1f1f?style=flat&logo=javascript&logoColor=white&labelColor=000000&color=1f1f1f)
+![HTML5](https://img.shields.io/badge/HTML5-1f1f1f?style=flat&logo=html5&logoColor=white&labelColor=000000&color=1f1f1f)
+![CSS3](https://img.shields.io/badge/CSS3-1f1f1f?style=flat&logo=css3&logoColor=white&labelColor=000000&color=1f1f1f)
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1f1f1f?style=flat&logo=springboot&logoColor=white&labelColor=000000&color=1f1f1f)
+![JSF](https://img.shields.io/badge/JSF_/_PrimeFaces-1f1f1f?style=flat&logo=java&logoColor=white&labelColor=000000&color=1f1f1f)
+![EJB](https://img.shields.io/badge/EJB-1f1f1f?style=flat&logo=java&logoColor=white&labelColor=000000&color=1f1f1f)
+![Hibernate](https://img.shields.io/badge/Hibernate-1f1f1f?style=flat&logo=hibernate&logoColor=white&labelColor=000000&color=1f1f1f)
+![Kafka](https://img.shields.io/badge/Kafka-1f1f1f?style=flat&logo=apachekafka&logoColor=white&labelColor=000000&color=1f1f1f)
+
+![GlassFish](https://img.shields.io/badge/GlassFish-1f1f1f?style=flat&logo=oracle&logoColor=white&labelColor=000000&color=1f1f1f)
+![Tomcat](https://img.shields.io/badge/Tomcat-1f1f1f?style=flat&logo=apachetomcat&logoColor=white&labelColor=000000&color=1f1f1f)
+
+![Docker](https://img.shields.io/badge/Docker-1f1f1f?style=flat&logo=docker&logoColor=white&labelColor=000000&color=1f1f1f)
+![Maven](https://img.shields.io/badge/Maven-1f1f1f?style=flat&logo=apachemaven&logoColor=white&labelColor=000000&color=1f1f1f)
+![Git](https://img.shields.io/badge/Git-1f1f1f?style=flat&logo=git&logoColor=white&labelColor=000000&color=1f1f1f)
+![Postman](https://img.shields.io/badge/Postman-1f1f1f?style=flat&logo=postman&logoColor=white&labelColor=000000&color=1f1f1f)
+![Jasper Studio](https://img.shields.io/badge/Jasper_Studio-1f1f1f?style=flat&logo=java&logoColor=white&labelColor=000000&color=1f1f1f)
+
+![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-1f1f1f?style=flat&logo=intellijidea&logoColor=white&labelColor=000000&color=1f1f1f)
+![Eclipse](https://img.shields.io/badge/Eclipse-1f1f1f?style=flat&logo=eclipseide&logoColor=white&labelColor=000000&color=1f1f1f)
+![NetBeans](https://img.shields.io/badge/NetBeans-1f1f1f?style=flat&logo=apachenetbeanside&logoColor=white&labelColor=000000&color=1f1f1f)
+
+![MySQL](https://img.shields.io/badge/MySQL-1f1f1f?style=flat&logo=mysql&logoColor=white&labelColor=000000&color=1f1f1f)
+![Arduino](https://img.shields.io/badge/Arduino-1f1f1f?style=flat&logo=arduino&logoColor=white&labelColor=000000&color=1f1f1f)
+
 
 
 
