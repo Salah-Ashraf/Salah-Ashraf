@@ -197,7 +197,8 @@ Work includes:
 
 🔹 Smart Plant Watering System (Graduation Project)
 
-- Arduino + C++ automation.
+- Arduino + C++ automation
+- Automated watering based on soil moisture
 
 
 
