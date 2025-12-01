@@ -36,35 +36,26 @@ I focus on building reliable, maintainable backend systems using proper design p
   <!-- Backend Frameworks & Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
   <img width="12" />
-  <!-- JSF / PrimeFaces -->
-  <img src="https://raw.githubusercontent.com/primefaces/primefaces/master/docs/images/primefaces_logo.png" height="40" alt="JSF / PrimeFaces logo" />
+  <!-- Spring Cloud -->
+  <img src="https://raw.githubusercontent.com/DevIcons/devicon/master/icons/springcloud/springcloud-original.svg" height="40" alt="Spring Cloud logo" />
   <img width="12" />
-  <!-- EJB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EJB_logo.png/320px-EJB_logo.png" height="40" alt="EJB logo" />
+  <!-- Microservices -->
+  <img src="https://raw.githubusercontent.com/microsoft/azure-icons/master/Arch/Microservices/Microservices_64.png" height="40" alt="Microservices logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo" />
   <img width="12" />
 
-  <!-- Application Servers -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/GlassFish_Logo.svg/320px-GlassFish_Logo.svg.png" height="40" alt="GlassFish logo" />
-  <img width="12" />
-  <img src="https://icon-icons.com/downloadimage.php?id=169573&root=0/http://icon-icons.com/icons/png/128/169573.png" height="40" alt="Tomcat logo" />
-  <img width="12" />
-
   <!-- Tools & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
-  <img width="12" />
-  <!-- Maven -->
-  <img src="https://svgmix.com/getfile/svg/942784/apache-maven.svg" height="40" alt="Maven logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
   <img width="12" />
-  <!-- Jasper Studio -->
-  <img src="https://logowik.com/content/uploads/images/jaspersoft-studio-logo8935.jpg" height="40" alt="Jasper Studio logo" />
+  <!-- MySQL Workbench -->
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" alt="MySQL Workbench logo" />
   <img width="12" />
 
   <!-- IDEs -->
@@ -82,6 +73,7 @@ I focus on building reliable, maintainable backend systems using proper design p
   <!-- Hardware & Embedded -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
 </div>
+
 
 
 
