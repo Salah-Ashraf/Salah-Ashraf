@@ -53,40 +53,40 @@ I focus on building reliable, maintainable backend systems using proper design p
 
 ☕ Java & Backend Development
 
-Java EE, Spring Boot, Spring Cloud, JSF (PrimeFaces)
+- Java EE, Spring Boot, Spring Cloud, JSF (PrimeFaces)
 
-EJB, JPA, Hibernate
+- EJB, JPA, Hibernate
 
-REST APIs development & API troubleshooting
+- REST APIs development & API troubleshooting
 
-Microservice Arciticture, Kafka, Redis, Docker
+- Microservice Arciticture, Kafka, Redis, Docker
 
-Debugging backend logic
+- Debugging backend logic
 
-ERP modules (Invoices, Journals, Assets, HR)
+- ERP modules (Invoices, Journals, Assets, HR)
 
-Clean architecture & design patterns
+- Clean architecture & design patterns
 
-Advanced SQL Optimization
+- Advanced SQL Optimization
 
 
 🧩 Basic Production Support Experience
 
 🔹 Application Support
 
-Log analysis & debugging
+- Log analysis & debugging
 
-Checking server status
+- Checking server status
 
-Handling small production incidents
+- Handling small production incidents
 
-Investigating SQL/data issues
+- Investigating SQL/data issues
 
-Working with Tomcat / GlassFish
+- Working with Tomcat / GlassFish
 
-Restarting services, assisting deployments
+- Restarting services, assisting deployments
 
-Using Workbench for data checks
+- Using Workbench for data checks
 
 
 🔹 SQL & Data Checks
@@ -161,7 +161,7 @@ Work includes:
 
 🔹 Smart Plant Watering System (Graduation Project)
 
-Arduino + C++ automation.
+- Arduino + C++ automation.
 
 
 
