@@ -70,7 +70,9 @@ I focus on building reliable, maintainable backend systems using proper design p
 - Advanced SQL Optimization
 
 
+
 🧩 Basic Production Support Experience
+
 
 🔹 Application Support
 
@@ -89,6 +91,7 @@ I focus on building reliable, maintainable backend systems using proper design p
 - Using Workbench for data checks
 
 
+
 🔹 SQL & Data Checks
 
 - Using MySQL Workbench
@@ -98,6 +101,7 @@ I focus on building reliable, maintainable backend systems using proper design p
 - Writing/debugging complex queries
 
 - Validating data issues related to ERP transactions
+
 
 
 🔹 Servers & Environments
@@ -111,6 +115,7 @@ I focus on building reliable, maintainable backend systems using proper design p
 - Checking deployment folders / configuration files
 
 
+
 🔹 Monitoring & Deployments
 
 - Reading application/server logs
@@ -118,6 +123,7 @@ I focus on building reliable, maintainable backend systems using proper design p
 - Checking service status
 
 - Assisting in deployments (WAR/JAR)
+
 
 
 🔹Tools
@@ -133,7 +139,9 @@ I focus on building reliable, maintainable backend systems using proper design p
 - Docker • Kafka
 
 
+
 🚀 Projects
+
 
 🔹 ERP System Modules
 
@@ -150,6 +158,7 @@ Work includes:
 - HR modules
 
 
+
 🔹 REST API for E-commerce
 
 - Complete RESTful API for an online store
@@ -159,9 +168,11 @@ Work includes:
 - JWT authentication and role-based authorization
 
 
+
 🔹 Smart Plant Watering System (Graduation Project)
 
 - Arduino + C++ automation.
+
 
 
 
