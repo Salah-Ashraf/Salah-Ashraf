@@ -40,7 +40,7 @@ I focus on building reliable, maintainable backend systems using proper design p
   <img src="https://raw.githubusercontent.com/primefaces/primefaces/master/docs/images/primefaces_logo.png" height="40" alt="JSF / PrimeFaces logo" />
   <img width="12" />
   <!-- EJB -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/EJB_logo.png" height="40" alt="EJB logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/EJB_logo.png/320px-EJB_logo.png" height="40" alt="EJB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate logo" />
   <img width="12" />
@@ -48,23 +48,23 @@ I focus on building reliable, maintainable backend systems using proper design p
   <img width="12" />
 
   <!-- Application Servers -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/GlassFish_Logo.svg" height="40" alt="GlassFish logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/GlassFish_Logo.svg/320px-GlassFish_Logo.svg.png" height="40" alt="GlassFish logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Tomcat_logo.svg" height="40" alt="Tomcat logo" />
+  <img src="https://icon-icons.com/downloadimage.php?id=169573&root=0/http://icon-icons.com/icons/png/128/169573.png" height="40" alt="Tomcat logo" />
   <img width="12" />
 
   <!-- Tools & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
   <!-- Maven -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" height="40" alt="Maven logo" />
+  <img src="https://svgmix.com/getfile/svg/942784/apache-maven.svg" height="40" alt="Maven logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
   <img width="12" />
   <!-- Jasper Studio -->
-  <img src="https://raw.githubusercontent.com/TIBCOSoftware/js-commons/main/logo/JaspersoftStudioLogo.png" height="40" alt="Jasper Studio logo" />
+  <img src="https://logowik.com/content/uploads/images/jaspersoft-studio-logo8935.jpg" height="40" alt="Jasper Studio logo" />
   <img width="12" />
 
   <!-- IDEs -->
