@@ -36,9 +36,11 @@ I focus on building reliable, maintainable backend systems using proper design p
   <!-- Backend Frameworks & Technologies -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/JavaServer_Faces_logo.png" height="40" alt="JSF / PrimeFaces logo" />
+  <!-- JSF / PrimeFaces -->
+  <img src="https://raw.githubusercontent.com/primefaces/primefaces/master/docs/images/primefaces_logo.png" height="40" alt="JSF / PrimeFaces logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/EJB_logo.svg" height="40" alt="EJB logo" />
+  <!-- EJB -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/EJB_logo.png" height="40" alt="EJB logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate logo" />
   <img width="12" />
@@ -46,7 +48,7 @@ I focus on building reliable, maintainable backend systems using proper design p
   <img width="12" />
 
   <!-- Application Servers -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/GlassFish_Logo.png" height="40" alt="GlassFish logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/GlassFish_Logo.svg" height="40" alt="GlassFish logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Apache_Tomcat_logo.svg" height="40" alt="Tomcat logo" />
   <img width="12" />
@@ -54,13 +56,15 @@ I focus on building reliable, maintainable backend systems using proper design p
   <!-- Tools & DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" height="40" alt="Maven logo" />
+  <!-- Maven -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original-wordmark.svg" height="40" alt="Maven logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Jaspersoft_Studio_logo.svg" height="40" alt="Jasper Studio logo" />
+  <!-- Jasper Studio -->
+  <img src="https://raw.githubusercontent.com/TIBCOSoftware/js-commons/main/logo/JaspersoftStudioLogo.png" height="40" alt="Jasper Studio logo" />
   <img width="12" />
 
   <!-- IDEs -->
