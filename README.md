@@ -6,7 +6,7 @@ Java Backend Developer | Spring Boot | EJB | JSF | MySQL
 
   ABOUT ME
 
-- I’m a Java Backend Developer with strong experience in:
+ I’m a Java Backend Developer with strong experience in:
 
 - Enterprise ERP systems
 
