@@ -1,210 +1,144 @@
- Salah El-Din Ashraf
- 
-Java Backend Developer | Spring Boot | EJB | JSF | MySQL
+<h1 align="center">👋 Hi, I'm Salah El-Din Ashraf</h1>
+<h3 align="center">Java Backend Developer | Spring Boot | EJB | JSF | MySQL</h3>
 
-📍 Sheikh Zayed, Egypt
+<p align="center">
+  📍 Sheikh Zayed, Egypt
+</p>
 
-  ABOUT ME
+---
 
- I’m a Java Backend Developer with strong experience in:
+## 🚀 About Me
 
-- Enterprise ERP systems
+I’m a **Java Backend Developer** experienced in building scalable enterprise systems and ERP modules.
 
-- Backend development using Spring Boot, EJB, JSF, Hibernate, MySQL
+I specialize in:
 
-- Writing clean, scalable, SOLID-based code
+- Enterprise ERP development  
+- Backend development with **Spring Boot, EJB, JSF, Hibernate, MySQL**  
+- Writing **clean, scalable, SOLID-based code**  
+- Debugging, performance tuning & SQL optimization  
+- RESTful APIs, microservices & containerized deployments  
+- Applying clean architecture & design patterns  
 
-- Debugging, performance tuning & database optimization
+---
 
-- REST API development, microservices, and containerized deployments
-
-I focus on building reliable, maintainable backend systems using proper design patterns and clean architecture.
+## 🧠 Tech Stack & Tools
 
 <div align="left">
   <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
-  <img width="12" />
-
-  <!-- Backend Frameworks & Technologies -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" alt="Hibernate logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
   <img width="12" />
 
-  <!-- Tools & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker logo" />
+  <!-- Frameworks & Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" />
   <img width="12" />
-  <!-- MySQL Workbench -->
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" alt="MySQL Workbench logo" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" height="40" />
   <img width="12" />
 
   <!-- IDEs -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" height="40" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" alt="NetBeans logo" />
-  <img width="12" />
-
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="40" />
   <img width="12" />
 
-  <!-- Hardware & Embedded -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino logo" />
+  <!-- Hardware -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" />
 </div>
 
+---
 
+## 🛠 Skills
 
-
-
-
-
-
-🛠 Skills
-
-☕ Java & Backend Development
-
-- Java EE, Spring Boot, Spring Cloud, JSF (PrimeFaces)
-
-- EJB, JPA, Hibernate
-
-- REST APIs development & API troubleshooting
-
-- Microservice Arciticture, Kafka, Redis, Docker
-
+### ☕ Java & Backend Development
+- Java EE • Spring Boot • JSF (PrimeFaces)
+- EJB • JPA • Hibernate
+- REST APIs & troubleshooting
+- Microservices • Kafka • Docker
 - Debugging backend logic
-
 - ERP modules (Invoices, Journals, Assets, HR)
-
 - Clean architecture & design patterns
+- Advanced SQL optimization
 
-- Advanced SQL Optimization
+---
 
+## 🧩 Production Support Experience
 
+### 🔹 Application Support
+- Log analysis, debugging & incidents handling  
+- Server status checking (Tomcat / GlassFish)  
+- Restarting services & assisting deployments  
+- SQL/data investigation using Workbench  
 
-🧩 Basic Production Support Experience
+### 🔹 SQL & Data Checks
+- Writing/debugging complex queries  
+- Investigating database issues  
+- Validating ERP transaction data  
 
+### 🔹 Servers & Environments
+- Linux / Windows Server  
+- Reviewing deployment/configuration files  
 
-🔹 Application Support
+### 🔹 Monitoring & Deployments
+- Reading logs  
+- Checking services  
+- Supporting WAR/JAR deployments  
 
-- Log analysis & debugging
+---
 
-- Checking server status
+## 🚀 Projects
 
-- Handling small production incidents
+### 🔹 ERP System Modules
+- General Journal  
+- Services / Sales / Purchases Invoice Flow  
+- Asset Buying & Selling  
+- Asset Depreciation  
+- HR modules  
 
-- Investigating SQL/data issues
+### 🔹 REST API for E-commerce
+- Full CRUD operations  
+- JWT authentication  
+- Role-based authorization  
 
-- Working with Tomcat / GlassFish
+### 🔹 Smart Plant Watering System (Graduation Project)
+- Arduino + C++ automation  
+- Soil-moisture–based auto-watering  
 
-- Restarting services, assisting deployments
+---
 
-- Using Workbench for data checks
+## 📫 Contact Me
 
+<p align="left">
 
+<a href="https://www.linkedin.com/in/salah-e-ashraf/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-🔹 SQL & Data Checks
+<a href="mailto:salah.ashraf.cs11@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-- Using MySQL Workbench
+</p>
 
-- Investigating database production issues
-
-- Writing/debugging complex queries
-
-- Validating data issues related to ERP transactions
-
-
-
-🔹 Servers & Environments
-
-- Working on Linux or Windows Server
-
-- Restarting services
-
-- Familiar with Tomcat / GlassFish
-
-- Checking deployment folders / configuration files
-
-
-
-🔹 Monitoring & Deployments
-
-- Reading application/server logs
-
-- Checking service status
-
-- Assisting in deployments (WAR/JAR)
-
-
-
-🔹Tools
-
-- Maven • Git
-
-- Jasper Studio
-
-- Postman
-
-- IntelliJ • Eclipse • NetBeans 
-
-- Docker • Kafka
-
-
-
-🚀 Projects
-
-
-🔹 ERP System Modules
-
-Work includes:
-
-- General Journal
-
-- Services, Sales, Purvhases Invoice Flow
-
-- Asset Buying/Selling
-
-- Asset Depreciation
-
-- HR modules
-
-
-
-🔹 REST API for E-commerce
-
-- Complete RESTful API for an online store
-
-- CRUD operations for products, orders, and users
-
-- JWT authentication and role-based authorization
-
-
-
-🔹 Smart Plant Watering System (Graduation Project)
-
-- Arduino + C++ automation
-- Automated watering based on soil moisture
-
-
-
-
-📫 Contact
-
-LinkedIn: https://www.linkedin.com/in/salah-e-ashraf/
-
-Email: salah.ashraf.cs11@gmail.com
+---
