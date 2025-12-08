@@ -18,7 +18,10 @@ I specialize in:
 - Writing **clean, scalable, SOLID-based code**  
 - Debugging, performance tuning & SQL optimization  
 - RESTful APIs, microservices & containerized deployments  
-- Applying clean architecture & design patterns  
+- Applying clean architecture & design patterns
+- Managed deployments on Tomcat/GlassFish (WAR files, configs) and Handled API failures and integration issues in production
+environments.
+
 
 ---
 
